@@ -1,0 +1,17 @@
+indicator,value,unit,reference_period,source_url,notes
+Total schools,1471891,schools,2023-24,https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/udise_report_existing_23_24.pdf,As reported in UDISE+ national highlights
+"Total enrolment, pre-primary to higher secondary",248045828,students,2023-24,https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/udise_report_existing_23_24.pdf,Pre-primary excludes Anganwadi ECCE centres and private kindergartens not part of UDISE+
+"Total enrolment, primary to higher secondary",234963031,students,2023-24,https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/udise_report_existing_23_24.pdf,Excludes pre-primary
+Pre-primary enrolment,13082797,students,2023-24,https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/udise_report_existing_23_24.pdf,Coverage limitation applies
+Primary enrolment,107837711,students,2023-24,https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/udise_report_existing_23_24.pdf,Stage categories as reported
+Upper primary enrolment,63126015,students,2023-24,https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/udise_report_existing_23_24.pdf,Stage categories as reported
+Secondary enrolment,36863791,students,2023-24,https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/udise_report_existing_23_24.pdf,Stage categories as reported
+Higher secondary enrolment,27135514,students,2023-24,https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/udise_report_existing_23_24.pdf,Stage categories as reported
+"Girls enrolment, primary to higher secondary",113248084,students,2023-24,https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/udise_report_existing_23_24.pdf,Reported total
+"Boys enrolment, primary to higher secondary",121714947,students,2023-24,https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/udise_report_existing_23_24.pdf,Reported total
+Total teachers,9807600,teachers,2023-24,https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/udise_report_existing_23_24.pdf,As reported in national highlights
+Gross enrolment ratio - Primary,93.0,percent,2023-24,https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/udise_report_existing_23_24.pdf,GER can exceed 100 in general; it is not a net attendance rate
+Gross enrolment ratio - Upper primary,89.7,percent,2023-24,https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/udise_report_existing_23_24.pdf,GER
+Gross enrolment ratio - Elementary,91.7,percent,2023-24,https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/udise_report_existing_23_24.pdf,GER
+Gross enrolment ratio - Secondary,77.4,percent,2023-24,https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/udise_report_existing_23_24.pdf,GER
+Gross enrolment ratio - Higher secondary,56.2,percent,2023-24,https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/udise_report_existing_23_24.pdf,GER
